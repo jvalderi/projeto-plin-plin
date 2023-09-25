@@ -93,3 +93,19 @@ header li{
 span{
    color: #6C63FF;
 }
+
+.formulario{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.formulario_box{
+  width: 90%;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
